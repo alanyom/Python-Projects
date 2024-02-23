@@ -22,3 +22,7 @@ print(mylist)
 
 mylist.remove(5)
 print(mylist)
+
+lastitem = mylist.pop()
+print(lastitem)
+print(mylist)
